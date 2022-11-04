@@ -1,0 +1,13 @@
+Introduction to SBT (Scala Build Tool)
+sbt(Scala Build Tool, formerly SImple Build Tool) is an open source build tool for Scala and JAva Projects, similar to Java's Maven and Ant
+SBT is a modern build tool while it is written in Scala and provides many Scala conveniences, it is generally purpose build tool.
+SBT is the de facto build tool in the Scala
+
+WHY SBT\
+Native support for compiling Scala Code
+Uses apache Ivy for dependency management
+only-update-on-request model
+full Scala language support for creating tasks
+Support for mixed Java/Scala Projects 
+Launch REPL (Read-Eval-Print Loop) in project context.
+

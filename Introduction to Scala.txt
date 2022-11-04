@@ -1,0 +1,17 @@
+Brief Introduction
+Scala is an acronym for SCAlable LAnguage
+Scala is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant an type-safe way.
+Scala is written by Martin Odersky at EPFL
+
+Statically Typed
+Runs on JVM, Full inter-op with Java
+Object-Oriented
+Functional Dynamic Features
+Scala blends object-oriented and functional programming in a statically typed language.
+
+ Why Learn Scala (Scala is Practical)
+Can be used as drop-in replacement for java 
+Mixed Scala/Java Projects
+Use Existing Java Libraries
+Use exisitng JAva tools (Ant, Maven, JUnit, etc..)
+Decent IDE support (Netbeans, intelliJ, Eclipse)
